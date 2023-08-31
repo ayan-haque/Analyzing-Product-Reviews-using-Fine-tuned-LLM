@@ -37,7 +37,7 @@ st.markdown(
 # Adding link to my GitHub repository
 github_link = """
 <div style='float: right;'>
-    <a href='https://github.com/amaan-ai/Product-Review-Analyzer-App-watsonxai'>
+    <a href='https://github.com/ayan-haque/Analyzing-Product-Reviews-using-Fine-tuned-LLM'>
         <img src='https://img.shields.io/badge/GitHub-Repo-green?style=flat-square&logo=github'>
     </a>
 </div>
