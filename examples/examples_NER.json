@@ -1,0 +1,52 @@
+[
+  {
+    "Example_1": "I've been using the NutriBullet blender for about a month now, and it's been a game-changer in my kitchen. It's so easy to use and clean. I did notice that the motor isn't as powerful as the one in the Vitamix, but for the price point, it's a steal. If anyone needs to contact me for more details, they can reach me at john.doe@outlook.com or 555-1234.",
+    "Extracted_Entities_from_Example_1": {
+	  "Person": ["NULL"],
+      "Email": ["john.doe@outlook.com"],
+      "Phone": ["555-1234"],
+      "Product": ["NutriBullet blender"],
+      "Competitor": ["Vitamix"]
+    }
+  },
+  {
+    "Example_2": "I was comparing the SoundWave headphones by AudioTech with the BeatBlitz by MelodyMakers. Lucy from AudioTech (lucy.audiotech@gmail.com, +91885357577) praised SoundWave's noise-cancellation, while Tan Khai from MelodyMakers (max.melody@yahoo.com, (+1) 999-1111) emphasized BeatBlitz's bass quality.",
+    "Extracted_Entities_from_Example_2": {
+      "Person": ["Lucy", "Tan Khai"],
+      "Email": ["lucy.audiotech@gmail.com", "max.melody@yahoo.com"],
+      "Phone": ["+91885357577", "(+1) 999-1111"],
+      "Product": ["SoundWave", "BeatBlitz"],
+      "Competitor": ["MelodyMakers (in relation to AudioTech)"]
+    }
+  },
+  {
+    "Example_3": "I recently bought this item after seeing its advertisement. It's been a great addition to my collection. The quality is top-notch, and it's been working flawlessly.",
+    "Extracted_Entities_from_Example_3": {
+	  "Person": ["NULL"],
+      "Email": ["NULL"],
+      "Phone": ["NULL"],
+      "Product": ["NULL"],
+      "Competitor": ["NULL"]
+	}
+  },
+  {
+    "Example_4": "I had a terrible experience with the new laptop I bought from ElectroHub. The model, ElectroFlex Pro, had numerous software issues. I tried reaching out to their support team at support@electrohub.com and even called them at (123) 456-7890, but got no response. My friend, Sarah, recommended Lenovo's ThinkPad, and I regret not listening to her.",
+    "Extracted_Entities_from_Example_4": {
+      "Person": ["Sarah"],
+      "Email": ["support@electrohub.com"],
+      "Phone": ["(123) 456-7890"],
+      "Product": ["ElectroFlex Pro"],
+      "Competitor": ["Lenovo ThinkPad"]
+	}
+   },
+	{
+    "Example_5": "I recently purchased the Galaxy S25 from Samsung, and I must say I'm thoroughly impressed. The battery life is phenomenal, and the camera quality is top-notch. However, I did face some issues with the customer support team when I tried reaching out to them at support@samsung.com. I also found that the iPhone 14 has a slightly better user interface.",
+    "Extracted_Entities_from_Example_5": {
+      "Person": ["NULL"],
+      "Email": ["support@samsung.com"],
+      "Phone": ["NULL"],
+      "Product": ["Galaxy S25"],
+      "Competitor": ["iPhone 14"]
+    }
+  }
+]
