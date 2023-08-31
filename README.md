@@ -28,8 +28,8 @@ This Project is created with:
 ## Example Illustrations
 
 ### Example 1:
-![Entity Extraction Example](https://github.com/amaan-ai/Product-Review-Analyzer-App-watsonxai-v3/blob/main/sample_test_runs/test_run_1.jpg)
+![Entity Extraction Example](https://github.com/ayan-haque/Analyzing-Product-Reviews-using-Fine-tuned-LLM/blob/main/sample_test_runs/test_run_1.jpg)
 
 ### Example 2:
-![Sentiment Analysis Example](https://github.com/amaan-ai/Product-Review-Analyzer-App-watsonxai-v3/blob/main/sample_test_runs/test_run_2.jpg)
+![Sentiment Analysis Example](https://github.com/ayan-haque/Analyzing-Product-Reviews-using-Fine-tuned-LLM/blob/main/sample_test_runs/test_run_2.jpg)
 
