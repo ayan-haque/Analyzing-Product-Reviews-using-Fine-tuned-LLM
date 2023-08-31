@@ -1,4 +1,4 @@
-# Product-Review-Analyzer-using-watsonx.ai
+# Analyzing-Product-Reviews-using-Fine-tuned-LLM
 
 Try [Review Analyzer App](https://review-analysis-app.streamlit.app/)
 
