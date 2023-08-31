@@ -5,7 +5,6 @@ import re
 
 def transform_NER_output(s):
     
-    #s = '"Product: watsonx.ai, Competitor: extracted entities if any else NULL"'
     
     ''' For cleaning NER output i.e. transsforming from dict to NER format'''
     # Convert the string to a dictionary
